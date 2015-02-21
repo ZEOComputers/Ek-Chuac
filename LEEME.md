@@ -1,7 +1,7 @@
-# Ek-Chuac
+﻿# Ek-Chuac
 Programa para cambiar divisa, una cantidad proporcionada al usuario, la app tendra varias opciones (euro, dollar, peso, etc), puedes agregar favoritos y se actualizaran las divisas al estar conectado a internet. Disponible en ingles y español.
 # Monedas
-Se utilizaran las siguientes monedas:
+Se utilizarán las siguientes monedas:
 USD - dolar estadounidense
 EUR - euro
 JPY - yen japones
